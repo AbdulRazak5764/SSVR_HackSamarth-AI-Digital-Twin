@@ -174,12 +174,5 @@ uvicorn main:app --host 0.0.0.0 --port 10000
 
 This project was developed for HackSamarth 2026 Hackathon.
 
----
-
-⭐ If you found this project useful, consider giving it a star!
-
-```
-
----
 
 ]
