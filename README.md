@@ -1,5 +1,4 @@
-Bhai 🔥
-Yeh raha **final clean professional README.md code** — tum direct copy karke GitHub mein `README.md` file bana sakte ho.
+# SSVR_HACKSAMRATH_AI_DIGITAL_TWIN
 
 ---
 
